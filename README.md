@@ -1,2 +1,12 @@
-# Pawfect
-The website helps pet owners to find individuals who are willing to look after their pet while the owner is away. (Find a pawfct match for your pawfect pet)
+#his repository contains the source code for a website that helps pet owners find individuals who are willing to look after their pets while they are away. The website includes a login/register page, user profile page, and find pet page.
+
+-Users can create an account, view and edit their profile information, and search for potential pet sitters in their area.
+
+-This project demonstrates skills in full-stack web development and database management.
+
+-Tech Stack Used: 
+  Html 
+  Css 
+  Js 
+  Php 
+  DBMS
